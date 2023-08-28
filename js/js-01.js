@@ -4,3 +4,4 @@ console.log("hello world");
 console.log("hello world");
 console.log("hello world");
 console.log("print something");
+console.log("Last Statement");
