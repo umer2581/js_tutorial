@@ -36,3 +36,4 @@ value2=value2.slice(1,7); // it will only avedn
 console.log(value2);
 
 
+ 
